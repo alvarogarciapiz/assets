@@ -1,0 +1,25 @@
+# macOS: common ignores
+# Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Resource fork files & archive helper dir
+._*
+__MACOSX/
+
+# Spotlight, Trash, and fs events
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Time Machine / document revisions / temporary items
+.com.apple.timemachine.*
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+
+# Apple database/folder metadata
+.AppleDB
+.AppleDesktop
