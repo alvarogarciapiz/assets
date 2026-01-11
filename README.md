@@ -30,6 +30,6 @@ Los archivos están disponibles para descarga directa desde GitHub o mediante en
 ---
 
 ## 🔗 Find me on
-- My Mailing list: [lvrpiz Newsletter](https://www.bulletin.lvrpiz.com/subscribe)  
+- My Mailing list / Blog: [lvrpiz Newsletter](https://www.blog.lvrpiz.com/subscribe)  
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)  
 - Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
