@@ -1,11 +1,11 @@
-# lvrpiz Talk Assets
+# lvrpiz Assets
 
-Este repositorio contiene los materiales, presentaciones y recursos que utilizo en mis charlas y ponencias.  
+Este repositorio contiene los materiales, presentaciones y recursos que utilizo en mi blog y charlas.
 Aquí encontrarás PDFs, demos y documentos que comparto públicamente para que puedas revisarlos o reutilizarlos.
 
 ---
 
-## 📂 Contenido
+## Contenido
 Cada carpeta corresponde a una charla o intervención.  
 Los archivos están disponibles para descarga directa desde GitHub o mediante enlaces `raw`.
 
@@ -29,7 +29,7 @@ Los archivos están disponibles para descarga directa desde GitHub o mediante en
 
 ---
 
-## 🔗 Find me on
+## Sobre mi
 - My Mailing list / Blog: [lvrpiz Newsletter](https://www.blog.lvrpiz.com/subscribe)  
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)  
 - Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
