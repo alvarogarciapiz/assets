@@ -27,7 +27,7 @@ Los archivos están disponibles para descarga directa desde GitHub o mediante en
   - `watermark_image_embed.ipynb`: Notebook para incrustar marcas de agua en imágenes.
   - `watermark_image_detect.ipynb`: Notebook para detectar marcas de agua.
 
-### 3️⃣ Blog / Newsletter
+### *️⃣ Blog / Newsletter
 Esta sección contiene **todas las entradas de mi blog/newsletter** en **Markdown y PDF**.
 
 - Entradas organizadas **por orden cronológico**
