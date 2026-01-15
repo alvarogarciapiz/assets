@@ -1,6 +1,6 @@
 ---
 title: "Patrones de diseño para Agentes de IA"
-date: "15 de Enero de 2026"
+date: "21 de Enero de 2026"
 edition: 17
 source: "https://www.blog.lvrpiz.com/p/patrones-diseno-agentes-ia"
 ---
