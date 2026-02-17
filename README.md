@@ -27,27 +27,15 @@ Los archivos están disponibles para descarga directa desde GitHub o mediante en
   - `watermark_image_embed.ipynb`: Notebook para incrustar marcas de agua en imágenes.
   - `watermark_image_detect.ipynb`: Notebook para detectar marcas de agua.
 
-### *️⃣ Blog / Newsletter
-Esta sección contiene **todas las entradas de mi blog/newsletter** en **Markdown y PDF**.
+## *️⃣ Blog / Newsletter
 
-- Entradas organizadas **por orden cronológico**
-- Cada entrada se estructura por carpetas:
-  - `markdown/` → versión editable
-  - `pdf/` → versión lista para lectura y archivo
-- Puedes **descargarlas, estudiarlas y hacer con ellas lo que quieras**
+Cada semana publico un análisis técnico profundo sobre **IA, DevOps o Tecnología**, enfocado en conocimiento práctico, aplicable y sin relleno, con ejemplos para experimentar por tu cuenta.
 
-**Newsletter:**  
-**“Análisis técnicos para profesionales que no tienen tiempo”**  
-Por **Álvaro García Pizarro**
-
-Cada semana publico un **Blueprint**: un análisis técnico profundo sobre **Tecnología e Ingeniería**, enfocado en conocimiento práctico, aplicable y sin relleno, con ejemplos para experimentar por tu cuenta.
-
-- Suscripción gratuita: https://www.blog.lvrpiz.com/  
-- Archivo completo en la web: https://www.blog.lvrpiz.com/archive  
+- Suscripción gratuita: https://lvrpiz.substack.com/ 
 
 ---
 
 ## Sobre mí
-- Mailing list / Blog: [lvrpiz Newsletter](https://www.blog.lvrpiz.com/subscribe)  
+- Mailing list / Blog: [lvrpiz Newsletter](https://lvrpiz.substack.com/)  
 - LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)  
 - Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
