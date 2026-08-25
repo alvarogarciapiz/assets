@@ -37,5 +37,5 @@ Cada semana publico un análisis técnico profundo sobre **IA, DevOps o Tecnolog
 
 ## Sobre mí
 - Mailing list / Blog: [lvrpiz Newsletter](https://lvrpiz.substack.com/)  
-- LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/alvarogarciapiz/)  
+- LinkedIn: [@alvarogarciapiz](https://www.linkedin.com/in/lvrpiz/)  
 - Twitter: [@lvrpiz](https://twitter.com/lvrpiz)
