@@ -6,6 +6,13 @@
         <description>Signed updates for Nubo for Mac.</description>
         <language>en</language>
         <item>
+            <title>Nubo 1.0 (17)</title>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/alvarogarciapiz/assets/c0c3ccbb0bbf883791874f9f409047c33c1d715f/nubo/mac/1.0-build17/Nubo-1.0-build17.zip" length="4551921" type="application/octet-stream" sparkle:edSignature="rUjX2n2xGEUQ4lTRSyZPg7dZyNlyioyknEEdDEdZlpuDUFfIVLsfYcUNVNBet0ynSfmuMe9z2ucdiKhNHnbaDA=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Tue, 08 Sep 2026 11:11:02 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
